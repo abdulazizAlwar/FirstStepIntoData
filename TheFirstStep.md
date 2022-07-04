@@ -45,7 +45,7 @@
 <p>
   <a href="https://www.kaggle.com/learn/pandas">https://www.kaggle.com/learn/pandas</a> <a href="https://www.kaggle.com/learn/data-visualization">https://www.kaggle.com/learn/data-visualization</a>
 </p>
-<p>Once you are familiar with Python, here is where all the fun stuff will happen!</p>
+<strong><p>Once you are familiar with Python, here is where all the fun stuff will happen!</p></strong>
 <p>Start with pandas to work with dataframes (data table format), then Data Visualization. With these two skills, you can do so many cool things with data and Python.</p>
 <p>
   <br/>
