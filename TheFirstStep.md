@@ -1,3 +1,6 @@
+<p>
+  <ac:structured-macro ac:macro-id="f44a0930-3c02-427a-abda-910d560ede1c" ac:name="toc" ac:schema-version="1"/>
+</p>
 <h1>0. What is this?</h1>
 <p>
   <br/>
@@ -13,11 +16,7 @@
   <br/>
 </p>
 <p>
-  <u>
-    <strong>
-      <a href="https://www.kaggle.com/learn">Kaggle Learn</a>
-    </strong>
-  </u>
+  <u> <strong> <a href="https://www.kaggle.com/learn">Kaggle Learn</a> </strong> </u>
 </p>
 <p>Just go to the above link!</p>
 <p>Kaggle is one of the best if not the best resource for Data Science! You can find courses, notebooks (interactive files you can code and visualize in), datasets and even competitions when you're confident enough.</p>
@@ -45,7 +44,9 @@
 <p>
   <a href="https://www.kaggle.com/learn/pandas">https://www.kaggle.com/learn/pandas</a> <a href="https://www.kaggle.com/learn/data-visualization">https://www.kaggle.com/learn/data-visualization</a>
 </p>
-<strong><p>Once you are familiar with Python, here is where all the fun stuff will happen!</p></strong>
+<p>
+  <strong>Once you are familiar with Python, here is where all the fun stuff will happen!</strong>
+</p>
 <p>Start with pandas to work with dataframes (data table format), then Data Visualization. With these two skills, you can do so many cool things with data and Python.</p>
 <p>
   <br/>
@@ -102,9 +103,7 @@
   <a href="https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-classification-basic">https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-classification-basic</a>
 </p>
 <p>
-  <span style="letter-spacing: 0.0px;">
-    <a href="https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-regression-basic">https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-regression-basic</a>
-  </span>
+  <span style="letter-spacing: 0.0px;"> <a href="https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-regression-basic">https://www.kaggle.com/code/abdulaziz7/machine-learning-workflow-regression-basic</a> </span>
 </p>
 <p>
   <span style="letter-spacing: 0.0px;">The above notebooks contain most of the fundamental techniques you use in a simple ML prototype for Classification or Regression. Feel free to use them as a template to run Machine Learning on your own datasets.</span>
@@ -113,15 +112,56 @@
   <br/>
 </p>
 <hr/>
+<h1>5. Practice &amp; Compete!</h1>
+<p>Now that you have all the skills to create an ML Prototype, It's time to train those muscles! As with data analysis, the more you practice, the easier everything will become. </p>
+<p>You don't have to work on anything complex, start simple! If you feel a certain project or dataset is too hard, simply skip it and move on. As long as you're coding you are learning. A complex project might be a great challenge to learn from, but it can also lower your motivation if you're stuck on it for too long. </p>
+<p>Kaggle has a variety of datasets and projects you can practice with. There are even competitions with decent cash prizes!</p>
+<p>Here are some ideas for things to practice on:</p>
+<h3>Open Datasets</h3>
+<p>
+  <a href="https://www.kaggle.com/datasets">https://www.kaggle.com/datasets</a>
+</p>
+<p>
+  <a href="https://www.dubaipulse.gov.ae/">https://www.dubaipulse.gov.ae/</a>
+</p>
+<p>Open datasets with real world data. Including datasets from Dubai Government such as Airport Traffic, Economic Data, etc.</p>
+<p>Try looking for a dataset that is related to you and see what kind of insight you can get from it.</p>
+<h3>Competitions</h3>
+<p>
+  <a href="https://www.kaggle.com/competitions">https://www.kaggle.com/competitions</a>
+</p>
+<p>Competitions offer an extra challenge to build something with useful output. You can also compete as a team with your colleagues.  </p>
+<h3>Code References</h3>
+<p>
+  <a href="https://www.kaggle.com/code">https://www.kaggle.com/code</a>
+</p>
+<p>
+  <a href="https://github.com/abdulazizAlwar/Data-Analytics-and-Manipulation">https://github.com/abdulazizAlwar/Data-Analytics-and-Manipulation</a>
+</p>
+<p>
+  <a href="https://github.com/luislauriano/Data_Science">https://github.com/luislauriano/Data_Science</a>
+</p>
+<p>Here you can find a variety of notebooks and code to use as a reference or inspiration. With GitHub you can see a variety of portfolios and see real code others have worked on. You can even contribute to any open source project once you're god enough</p>
 <p>
   <br/>
 </p>
-<p>#TODO:</p>
-<ol>
-  <li>Add section 4</li>
-  <li>Add code samples from repo</li>
-  <li>Add Practice notebooks from kaggle</li>
-  <li>Capstone Project</li>
-  <li>SQL</li>
-  <li>Intro to Git and production</li>
-</ol>
+<hr/>
+<p>
+  <br/>
+</p>
+<h1>6. Other Useful Skills</h1>
+<h3>The Data Science Process</h3>
+<p>WIP</p>
+<h3>SQL</h3>
+<p>WIP</p>
+<h3>git &amp; Repositories</h3>
+<p>WIP</p>
+<p>
+  <br/>
+</p>
+<hr/>
+<p>
+  <br/>
+</p>
+<h1>7. Further Learning &amp; Resources</h1>
+<p>WIP</p>
