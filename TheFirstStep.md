@@ -42,7 +42,8 @@
 <p>This course will give you all the Python fundamentals you need for Data Science</p>
 <h3>I Know Python</h3>
 <p>
-  <a href="https://www.kaggle.com/learn/pandas">https://www.kaggle.com/learn/pandas</a> <a href="https://www.kaggle.com/learn/data-visualization">https://www.kaggle.com/learn/data-visualization</a>
+  <a href="https://www.kaggle.com/learn/pandas">https://www.kaggle.com/learn/pandas</a> </br>
+  <a href="https://www.kaggle.com/learn/data-visualization">https://www.kaggle.com/learn/data-visualization</a>
 </p>
 <p>
   <strong>Once you are familiar with Python, here is where all the fun stuff will happen!</strong>
@@ -59,7 +60,10 @@
 <p>Before you start with Machine Learning, first you need to practice! Go through the following notebooks and exercises, you can even use different datasets or your own datasets and see what kind of insight you can get.</p>
 <h3>Pandas &amp; Visualization Code Samples</h3>
 <p>
-  <a href="https://www.kaggle.com/code/abdulaziz7/pandas-intro">https://www.kaggle.com/code/abdulaziz7/pandas-intro</a> <a href="https://www.kaggle.com/code/abdulaziz7/pandas-filtering">https://www.kaggle.com/code/abdulaziz7/pandas-filtering</a>
+  <a href="https://www.kaggle.com/code/abdulaziz7/pandas-intro">https://www.kaggle.com/code/abdulaziz7/pandas-intro</a> 
+</p>
+<p>
+  <a href="https://www.kaggle.com/code/abdulaziz7/pandas-filtering">https://www.kaggle.com/code/abdulaziz7/pandas-filtering</a>
 </p>
 <p>
   <a href="https://www.kaggle.com/code/abdulaziz7/pandas-groupby-sorting-more-manipulation">https://www.kaggle.com/code/abdulaziz7/pandas-groupby-sorting-more-manipulation</a>
