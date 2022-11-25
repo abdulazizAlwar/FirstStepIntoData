@@ -145,7 +145,7 @@
 <p>
   <a href="https://github.com/luislauriano/Data_Science">https://github.com/luislauriano/Data_Science</a>
 </p>
-<p>Here you can find a variety of notebooks and code to use as a reference or inspiration. With GitHub you can see a variety of portfolios and see real code others have worked on. You can even contribute to any open source project once you're god enough</p>
+<p>Here you can find a variety of notebooks and code to use as a reference or inspiration. With GitHub you can see a variety of portfolios and see real code others have worked on. You can even contribute to any open source project once you are good enough.</p>
 <p>
   <br/>
 </p>
