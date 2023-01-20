@@ -154,6 +154,9 @@
   <br/>
 </p>
 <h1>6. Other Useful Skills</h1>
+- An excellent post by @vickyboykis on foundational skills for working with data:
+https://vickiboykis.com/2022/01/09/git-sql-cli/
+
 <h3>The Data Science Process</h3>
 <p>WIP</p>
 <h3>SQL</h3>
